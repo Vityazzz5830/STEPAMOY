@@ -327,7 +327,7 @@
 
 .aboutcompanysec{
   background: url(../img/aboutcompanysec_background.png) no-repeat;
-  background-size: contain;
+  background-size: cover;
   margin-top: 50px;
 }
 
